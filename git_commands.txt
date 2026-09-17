@@ -1,0 +1,24 @@
+mkdir git-demo
+    2  cd git-demo
+    3  ls
+    4  git init
+    5  sudo apt-get install git
+    6  vim test.py
+    7  sudo apt install python
+    8  sudo apt install python3
+    9  python3 test.py
+   10  git init
+   11  ls -a
+   12  git status
+   13  git add .
+   14  git status
+   15  ls
+   16  git rm --cached test.py
+   17  git status
+   18  git add.
+   19  git add .
+   20  git status
+   21  git commit -m "added test file"
+   22  git status
+   23  ls
+   24  history
