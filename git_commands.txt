@@ -22,3 +22,6 @@ mkdir git-demo
    22  git status
    23  ls
    24  history
+
+
+We are adding some new commands
