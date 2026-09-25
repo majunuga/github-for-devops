@@ -25,3 +25,4 @@ mkdir git-demo
 
 
 We are adding some new commands
+We are also deploying it 
